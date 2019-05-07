@@ -1,6 +1,6 @@
 {
   "name": "validador-cartao-la",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uma biblioteca para validar números de cartão de crédito",
   "main": "index.js",
   "scripts": {

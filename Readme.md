@@ -7,12 +7,12 @@ Biblioteca destinada a validar números de cartões de crédito, para uso em apl
 
 + Utilize o terminal e insira, de preferência na pasta onde quer utilizar a biblioteca:
 ```
-$ npm install card-validador-la
+$ npm install validador-cartao-la
 ```
 
 ## Uso
 ```
-> const cardCredito = require("card-validador-la")
+> const cardCredito = require("validador-cartao-la")
 > cardCredito.cardValidador('5169529722359365') // true
 ```
 
