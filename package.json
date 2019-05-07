@@ -1,0 +1,19 @@
+{
+  "name": "validador-cartao-la",
+  "version": "1.0.0",
+  "description": "Uma biblioteca para validar números de cartão de crédito",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "Lidiane Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
